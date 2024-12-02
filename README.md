@@ -11,6 +11,9 @@ Open three different terminals and run
 ```bash
 source ~/colcon_ws/install/setup.bash
 ```
+```bash
+source /opt/ros/humble/setup.bash
+```
 in each of them.
 
 
