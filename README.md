@@ -4,6 +4,9 @@
 
 Clone the repository in `~/colcon_ws/src` and build it using 
 ```bash
+git clone https://github.com/TonyOx369/ROS2-video-conversion.git
+```
+```bash
 source /opt/ros/humble/setup.bash
 ```
 ```bash
