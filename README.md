@@ -4,6 +4,9 @@
 
 Clone the repository in `~/colcon_ws/src` and build it using 
 ```bash
+source /opt/ros/humble/setup.bash
+```
+```bash
 colcon build
 ```  
 Open three different terminals and run 
