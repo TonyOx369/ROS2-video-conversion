@@ -40,3 +40,5 @@ in each of them.
   ```bash
   ros2 service call /switch_mode std_srvs/srv/SetBool "{data: false}"
   ```
+## Results
+https://drive.google.com/file/d/1FK0jH_MTd4GoOYdXZUucFLUbNprO8aek/view?usp=sharing
